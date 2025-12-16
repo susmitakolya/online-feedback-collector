@@ -13,7 +13,7 @@ Chart.js
 (iii) How to Run
 Install Flask
 Run python app.py
-Open browser at http://127.0.0.1:5001/
+Open browser at http://127.0.0.1:5002/
 
 (iv) Features
 Feedback submission
